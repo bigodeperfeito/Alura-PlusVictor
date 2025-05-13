@@ -66,3 +66,25 @@ body{
     font-size: 12px;
     color: var(--cinza-secundario);
 }
+
+.secundario{
+    align-items: center;
+    margin: 0 10em;
+}
+
+.secundario__imagem{
+    width: 80%;
+}
+
+.container__descricao{
+    padding: 2em;
+}
+
+.descricao__texto{
+    color: inline-block;
+}
+
+.secundario__botao{
+    display: inline-block;
+    margin-top: 1em;
+}
